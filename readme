@@ -1,0 +1,7 @@
+Ejercicio Cartelera Star Wars
+-----------------------------
+En este ejercicio guardaremos las peliculas de StarWars en diferentes cines.
+    ->Cada cine tendra su nombre, su codigo postal y su codigo pais, tambien podremos saber el tiempo que hara en el cine y los grados centigrados.
+    ->Las peliculas tendran el titulo, los personajes, el director, el cine donde se reproduce la pelicula y tambien tendremos la url de la API de Star Wars.
+    ->Cada personaje tendra la informacion nombre, altura, peso, color pelo, color piel y genero, tambien obtendremos la url del personaje de la API de Star Wars.
+
